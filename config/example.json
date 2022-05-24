@@ -1,0 +1,10 @@
+
+{
+ "Hadoop": {
+    "host": "172.17.216.118",
+    "port": 9870,
+    "proto": "http",
+    "fsRoot": "webhdfs/v1",
+    "user": "root"
+  }
+}
